@@ -2,7 +2,7 @@
 Deploy pretrained model to Azure using Python SDK
 
 
-Required:
+Prerequisites:
 - Jupyter Notebook
 - Docker
 - Python 
